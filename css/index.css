@@ -1,3 +1,6 @@
-.botoes{
-    margin: 10px auto ;
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
 }
